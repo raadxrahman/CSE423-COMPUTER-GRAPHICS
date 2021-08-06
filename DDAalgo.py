@@ -19,3 +19,4 @@ else:
         y0 = y0+1
         x0 = x0+(1/slope_m)
         print(round(x0), y0)
+        print(y0,y0)
